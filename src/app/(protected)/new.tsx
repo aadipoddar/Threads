@@ -31,7 +31,7 @@ export default function NewPostScreen() {
 
         <View className="mt-auto">
           <Pressable
-            onPress={() => {}}
+            onPress={() => { }}
             className="bg-white p-3 px-6 self-end rounded-full"
           >
             <Text className="text-black font-bold">Post</Text>
