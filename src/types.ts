@@ -16,6 +16,6 @@ export type Post = {
 
     parent_id: string | null;
     parent: Post | null;
-    
+
     replies: Post[];
 }
